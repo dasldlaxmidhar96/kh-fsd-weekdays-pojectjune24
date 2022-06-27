@@ -1,0 +1,71 @@
+.nav-1{
+    text-align: right;
+    background-color: antiquewhite;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-bottom: 20px;
+    font-size: 25px;
+}
+.nav-1 a{
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    padding-right: 60px;
+    text-decoration: none;
+}
+.healthy{
+    text-align: auto;
+    margin-left: 120px;
+    position: relative;
+    margin-top: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h4{
+    margin-left: 120px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+   
+}
+.b-m{
+    border: none;
+    border-radius: 20px;
+    padding: 12px 25px 12px 25px;
+    margin-left: 120px;
+    background-color: rgb(226, 14, 14);
+    color: whitesmoke;
+    cursor: pointer;
+    position: relative;
+
+    
+
+}
+.b-t{
+    border: none;
+    border-radius: 20px;
+    padding: 12px 30px 12px 30px;
+    cursor: pointer;
+    
+    
+}
+.food{
+    width: 500px;
+    float: right;
+    display: inline-block;
+    margin-bottom: 100px;
+    border: none;
+    border-radius: 100px 100px;
+    margin-right: 90px;
+    
+}
+h2{
+    font-size: 50px;
+    margin-left: 120px;
+    position: relative;
+    margin-top: 150px;
+    display: inline-block;
+    background-color: rgb(228, 224, 231);
+    border-radius: 20px;
+    padding: 10px 20px 10px 20px;
+}
+
+
